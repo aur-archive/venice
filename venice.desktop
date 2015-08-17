@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Merchant of Venice
+Comment=A stock market trading program with many features
+Exec=venice
+Icon=venice
+Terminal=false
+Categories=Java;Office;Finance;
